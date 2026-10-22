@@ -16,7 +16,7 @@ Mapeamento de todas as combinações possíveis (8 cenários para 3 variáveis).
 
 5.**(not_P_and_Q) Negação de operador `not`**
 
-6.**(P_and_Q → R) Implicação**
+6.**(P_and_Q → R) `Implicação`**
 
 ## Demonstração do Terminal
    <img width="405" height="189" alt="Screenshot_1" src="https://github.com/user-attachments/assets/84ec7918-b090-4758-87ec-d1fcaaef95a8" />
