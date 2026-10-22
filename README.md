@@ -12,9 +12,9 @@ Mapeamento de todas as combinações possíveis (8 cenários para 3 variáveis).
 
 3.**(R\ ) Proposição de entrada 3**
 
-4.**(P_and_Q) Conjunção de operador 'and'**
+4.**(P_and_Q) Conjunção de operador `and`**
 
-5.**(not_P_and_Q) Negação de operador 'not'**
+5.**(not_P_and_Q) Negação de operador `not`**
 
 6.**(P_and_Q → R) Implicação**
 
