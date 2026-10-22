@@ -3,7 +3,7 @@ Este projeto apresenta a construção automatizada de uma **Tabela Verdade Compl
 ## Funcionalidades
 Automação por meio da utilização do módulo nativo python `itertools` para mapear todas possibilidades para as variáveis P, Q, R.
 Mapeamento de todas as combinações possíveis (8 cenários para 3 variáveis). 
-**Formatação Limpa:** Interface limpa do terminal usando tratamento de alinhamento (`:<4`, `:<6`) para espaçamento das colunas e conversão booleana para caracteres tradicionais Verdadeiro (`V`) Falso (`F`).
+**Formatação Limpa:** Interface limpa do terminal usando tratamento de alinhamento (`:<4`, `:<6`) para espaçamento das colunas e conversão booleana para caracteres tradicionais True (`V`) False (`F`).
   
 ## Estrutura da Tabela Verdade:
 1.**( P\ ) Proposição de entrada 1**
