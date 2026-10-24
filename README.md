@@ -1,5 +1,5 @@
 # Gerador de Tabela Verdade Completa em Python
-Este projeto apresenta a construção automatizada de uma **Tabela Verdade Completa** com 3 proposições (`P`\), \(`Q`\) e \(`R`\) utilizando a linguagem Python. O objetivo é demonstrar a aplicação da **Lógica Matemática** para mapeamento de validação de dados na engenharia de software.
+Este projeto apresenta a construção automatizada de uma **Tabela Verdade Completa** com 3 proposições (`P`\), \(`Q`\) e \(`R`\) utilizando a linguagem Python. O objetivo é demonstrar a aplicação da **Lógica Proposicional** para mapeamento de validação de dados na engenharia de software.
 ## Funcionalidades
 Automação por meio da utilização do módulo nativo python `itertools` para mapear todas possibilidades para as variáveis P, Q, R.
 Mapeamento de todas as combinações possíveis (8 cenários para 3 variáveis). 
